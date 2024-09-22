@@ -20,3 +20,6 @@ OVA Format: https://cloud.htw-berlin.de/f/147477450
 ## 3 Entire Server Implementation
 The entire server configuration is present in this link:
 [Complete Project Implementation](https://github.com/ypindi/Own_LAMP_Server_hosting_Wordpress/blob/main/IT_Security_ProITD_Yashwanth_Pindi_s0590681.pdf)
+```
+https://github.com/ypindi/Own_LAMP_Server_hosting_Wordpress/blob/main/IT_Security_ProITD_Yashwanth_Pindi_s0590681.pdf
+```
