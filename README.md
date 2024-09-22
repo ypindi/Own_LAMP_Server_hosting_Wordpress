@@ -1,4 +1,4 @@
-# Own LAMP Server on Rocky Linux 8.10
+# Own LAMP Server hosting WordPress on Rocky Linux 8.10
 
 ## 1 Introduction
 This Project aims to create a LAMP server out of a virtual disk image (VDI). This VDI has a configuration file for Virtual Machine (VM) box - native linux virtualization environment. 
